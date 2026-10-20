@@ -47,3 +47,6 @@ The dataset is simulated for educational and analytical purposes. The results do
 
 ## 👨‍💻 Author
 **SIBIRAJAN A**
+
+<img width="1910" height="1181" alt="chart" src="https://github.com/user-attachments/assets/c0dc0660-c7a6-4c8a-acd0-857e66516e8e" />
+
